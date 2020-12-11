@@ -5,3 +5,7 @@
 
 (declare-source
  :source ["jack.janet"])
+
+(declare-executable
+  :name "jack"
+  :entry "jack.janet")
