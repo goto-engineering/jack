@@ -1,5 +1,7 @@
 # Jack
 
+[](<iframe src="https://giphy.com/embed/wxYgRoM7xDHP2" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lost-jack-shephard-we-have-to-go-back-wxYgRoM7xDHP2">via GIPHY</a></p>)
+
 Jack is a JSON pretty-printer written in [Janet](https://janet-lang.org/).
 
 ## Installation
