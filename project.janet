@@ -8,4 +8,5 @@
 
 (declare-executable
   :name "jack"
-  :entry "jack.janet")
+  :entry "jack.janet"
+  :install true)
