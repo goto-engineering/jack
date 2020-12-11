@@ -43,3 +43,5 @@ Example:
   "isAlive": true
 }
 ```
+
+If you just run `jack` without any `stdin`, you will be prompted to enter valid JSON text. You can end your input with <Ctrl-D><Ctrl-D>, ie. pressing <Ctrl-D> twice in a row. You know, `stdin`.
