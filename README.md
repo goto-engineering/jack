@@ -44,4 +44,4 @@ Example:
 }
 ```
 
-If you just run `jack` without any `stdin`, you will be prompted to enter valid JSON text. You can end your input with <Ctrl-D><Ctrl-D>, ie. pressing <Ctrl-D> twice in a row. You know, `stdin`.
+If you just run `jack` without any `stdin`, you will be prompted to enter valid JSON text. You can end your input with `Ctrl-D`. Press it 2x at the beginning of a line (you may press enter to get to the new line) or 3x in the middle of a line to end input.
