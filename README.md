@@ -8,7 +8,7 @@ Install Janet per [instructions](https://janet-lang.org/docs/index.html).
 
 Install dependencies using `jpm deps`.
 
-Build an executable binary by running `jpm build`. You can place this in your path, e.g. `/usr/local/bin`.
+Build an executable binary by running `jpm build`. You can place this in your path, e.g. `/usr/local/bin`. Alternatively, if your `$JANET_PATH` is set right (should be the default) you can run `jpm install` to install the binary into your Janet `bin` directory.
 
 ## Usage
 

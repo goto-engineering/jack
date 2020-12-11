@@ -46,6 +46,6 @@
 
 (defn main [& args]
   (-> (file/read stdin :all)
-      (json/decode)
+      json/decode
       format
       print))
